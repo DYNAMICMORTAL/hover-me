@@ -82,19 +82,3 @@ body {
     text-align: center;
     color: #414141;
 } 
-footer h3{
-    text-align: right;
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    opacity: 0;
-    transition: all .1s ease-in-out;
-}
-footer h3:hover{
-    color:#fff;
-    background: #000;
-    padding: 1rem;
-    border-radius: 50px;
-    opacity: 1;
-    position: fixed;
-}
